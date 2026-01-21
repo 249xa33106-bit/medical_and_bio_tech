@@ -81,18 +81,6 @@ LifeLink provides a centralized, transparent, and intelligent coordination platf
 - Maps: Mocked (map-ready)
 - Backend: Not required (mock data)
 
----
-
-## ▶️ How to Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:3000
-
----
 
 ## 📦 Project Structure
 
